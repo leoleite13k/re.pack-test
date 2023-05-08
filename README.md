@@ -22,7 +22,7 @@ Follow these steps to set up the project on your local machine.
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/callstack/super-app-example.git
+   git clone https://github.com/leoleite13k/repack-test.git
    ```
 
 2. Install the dependencies (including pods):
